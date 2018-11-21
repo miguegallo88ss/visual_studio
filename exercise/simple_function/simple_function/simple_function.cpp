@@ -19,7 +19,7 @@ int main()
 }
 
 int display_some_text() {
-	cout << "Inside function \n ";
+	cout << "Inside function now\n ";
 
 	return 0;
 }
