@@ -1,0 +1,4 @@
+﻿  pch.cpp
+  add_some_numbers.cpp
+d:\programing\c_plus_plus\exercise\add_some_numbers\add_some_numbers\add_some_numbers.cpp(6): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  add_some_numbers.vcxproj -> D:\Programing\C_Plus_Plus\exercise\add_some_numbers\x64\Debug\add_some_numbers.exe
