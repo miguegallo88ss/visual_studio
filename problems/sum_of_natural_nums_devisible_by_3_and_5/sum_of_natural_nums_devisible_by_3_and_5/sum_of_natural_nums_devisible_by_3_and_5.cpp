@@ -27,6 +27,9 @@ int main() {
 
     cout << "\nThe sum is " << sum << "\n"; 
 
+	// There is abetter way to do this using Euclid's Algorithm
+	// go here to find out more: https://github.com/miguegallo88ss/visual_studio/blob/master/exercise/learnedTricks/learnedTricks/learnedTricks.cpp
+
 	return 0;
 
 }
