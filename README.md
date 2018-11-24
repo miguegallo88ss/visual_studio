@@ -1,2 +1,2 @@
 # visual_studio
-Visual Studio C++ Problems &amp; exercises 
+Visual Studio C++ Problems &and; exercises 
