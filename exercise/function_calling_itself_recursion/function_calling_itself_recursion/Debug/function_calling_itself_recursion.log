@@ -1,0 +1,3 @@
+﻿  function_calling_itself_recursion.cpp
+d:\programing\c_plus_plus\exercise\function_calling_itself_recursion\function_calling_itself_recursion\function_calling_itself_recursion.cpp(18): warning C4101: 'value': unreferenced local variable
+  function_calling_itself_recursion.vcxproj -> D:\Programing\C_Plus_Plus\exercise\function_calling_itself_recursion\Debug\function_calling_itself_recursion.exe
