@@ -11,9 +11,10 @@ void printArrary(int theArray[], int sizeOfArray);
 int main()
 {
 	int theArray[10] = {1, 3, 56, 78, 12, 44, 34,33, 23, 45};
-	int sizeArr = 10;
-
-	printArrary(theArray, sizeArr);
+	
+	// For the second arguemnt of of function i device the size (in  bytes) of the array by the size (in bytes) of one of 
+	//the elements in the array. This gives me the number of element n the array.
+	printArrary(theArray, sizeof(theArray)/sizeof(theArray[0]));
 
 	system("pause");
 
