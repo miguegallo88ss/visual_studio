@@ -1,0 +1,4 @@
+﻿  pch.cpp
+  function_overload.cpp
+d:\programing\c_plus_plus\exercise\function_overload\function_overload\function_overload.cpp(19): warning C4305: 'initializing': truncation from 'double' to 'float'
+  function_overload.vcxproj -> D:\Programing\C_Plus_Plus\exercise\function_overload\Debug\function_overload.exe
