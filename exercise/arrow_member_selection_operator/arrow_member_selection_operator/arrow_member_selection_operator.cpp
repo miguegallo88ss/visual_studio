@@ -14,7 +14,7 @@ int main()
 	myclass miguelObject;
 	myclass*miguelPointer = &miguelObject;
 
-	// the period here "." is used to just access hte value of that variable in the class
+	// the period here "." is used to just access the value of that variable in the class
 	miguelObject.printCrap();
 
 	// The "->" is used when you are trying to access the address of somthing inside a class.

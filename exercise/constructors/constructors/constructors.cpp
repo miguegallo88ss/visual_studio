@@ -41,5 +41,6 @@ int main()
 	// and miguelGoodObject2 has its own variables (good_name)
 	miguelClass miguelGoodObject2("Seeting the goodname variable for object 2\n");
 	cout << miguelGoodObject2.getString() << "\n";
+	system("pause");
 	return 0;
 }
