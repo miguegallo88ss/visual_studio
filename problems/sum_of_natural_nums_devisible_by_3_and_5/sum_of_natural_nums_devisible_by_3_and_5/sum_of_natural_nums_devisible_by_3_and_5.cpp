@@ -19,9 +19,9 @@ int main() {
 	cin >> in_num;
 
 	for ( loop_ctr = 3; loop_ctr <= in_num; loop_ctr++) {
-		if ((loop_ctr % 5 == 0) || (loop_ctr % 3 == 0)) {
+		if ((loop_ctr % 5 == 0) && (loop_ctr % 3 == 0)) {
 			sum = loop_ctr + sum;
-			cout << "Divisible by Either " << loop_ctr << "\n";
+			cout << loop_ctr << " is Divisible by 3 & 5\n";
 		}
 	}
 
