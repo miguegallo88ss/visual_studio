@@ -1,2 +1,9 @@
-﻿  managing_arrays_and_strings.cpp
-  managing_arrays_and_strings.vcxproj -> D:\Programing\C_Plus_Plus\exercise\managing_arrays_and_strings\Debug\managing_arrays_and_strings.exe
+﻿  pch.cpp
+  managing_arrays_and_strings.cpp
+d:\programing\c_plus_plus\exercise\managing_arrays_and_strings\managing_arrays_and_strings\managing_arrays_and_strings.cpp(28): warning C26446: Prefer to use gsl::at() instead of unchecked subscript operator (bounds.4).
+d:\programing\c_plus_plus\exercise\managing_arrays_and_strings\managing_arrays_and_strings\managing_arrays_and_strings.cpp(29): warning C26446: Prefer to use gsl::at() instead of unchecked subscript operator (bounds.4).
+d:\programing\c_plus_plus\exercise\managing_arrays_and_strings\managing_arrays_and_strings\managing_arrays_and_strings.cpp(30): warning C26446: Prefer to use gsl::at() instead of unchecked subscript operator (bounds.4).
+d:\programing\c_plus_plus\exercise\managing_arrays_and_strings\managing_arrays_and_strings\managing_arrays_and_strings.cpp(42): warning C26446: Prefer to use gsl::at() instead of unchecked subscript operator (bounds.4).
+d:\programing\c_plus_plus\exercise\managing_arrays_and_strings\managing_arrays_and_strings\managing_arrays_and_strings.cpp(43): warning C26446: Prefer to use gsl::at() instead of unchecked subscript operator (bounds.4).
+d:\programing\c_plus_plus\exercise\managing_arrays_and_strings\managing_arrays_and_strings\managing_arrays_and_strings.cpp(44): warning C26446: Prefer to use gsl::at() instead of unchecked subscript operator (bounds.4).
+d:\programing\c_plus_plus\exercise\managing_arrays_and_strings\managing_arrays_and_strings\managing_arrays_and_strings.cpp(45): warning C26446: Prefer to use gsl::at() instead of unchecked subscript operator (bounds.4).
