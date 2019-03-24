@@ -1,0 +1,15 @@
+﻿  pch.cpp
+  Birthday.cpp
+D:\Programing\C_Plus_Plus\exercise\composition\composition\People.h(12): error C2061: syntax error: identifier 'Birthday'
+D:\Programing\C_Plus_Plus\exercise\composition\composition\People.h(17): error C3646: 'dateOfBirth': unknown override specifier
+D:\Programing\C_Plus_Plus\exercise\composition\composition\People.h(17): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  composition.cpp
+  People.cpp
+D:\Programing\C_Plus_Plus\exercise\composition\composition\People.h(12): error C2061: syntax error: identifier 'Birthday'
+D:\Programing\C_Plus_Plus\exercise\composition\composition\People.h(17): error C3646: 'dateOfBirth': unknown override specifier
+D:\Programing\C_Plus_Plus\exercise\composition\composition\People.h(17): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Programing\C_Plus_Plus\exercise\composition\composition\People.cpp(9): error C2511: 'People::People(std::string,Birthday)': overloaded member function not found in 'People'
+  D:\Programing\C_Plus_Plus\exercise\composition\composition\People.h(9): note: see declaration of 'People'
+D:\Programing\C_Plus_Plus\exercise\composition\composition\People.cpp(9): error C2550: 'People::{ctor}': constructor initializer lists are only allowed on constructor definitions
+D:\Programing\C_Plus_Plus\exercise\composition\composition\People.cpp(20): error C2065: 'dateOfBirth': undeclared identifier
+  Generating Code...
