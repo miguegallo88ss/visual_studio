@@ -1,0 +1,3 @@
+﻿  FloatingPoint.cpp
+d:\programing\c_plus_plus\basiccpp\floatingpoint\floatingpoint\floatingpoint.cpp(24): warning C4305: '=': truncation from 'double' to 'float'
+  FloatingPoint.vcxproj -> D:\Programing\C_Plus_Plus\BasicCpp\FloatingPoint\FloatingPoint\Debug\FloatingPoint.exe
