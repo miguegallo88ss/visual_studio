@@ -1,0 +1,2 @@
+﻿  Const-Macro-Enum.cpp
+d:\programing\c_plus_plus\basiccpp\const-macro-enum\const-macro-enum.cpp(12): error C3892: 'x': you cannot assign to a variable that is const
