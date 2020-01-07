@@ -58,6 +58,46 @@ int main()
 	//erase
 	greeting1.erase(2, 7);
 	cout << "string with \" SPACE \" erased. 7 characters erased: " << greeting1 << endl;
+	cout << greeting1.find("with") << endl;
+	
+	//pop_back
+	//remove last character
+	cout << "\npop_back" << endl;
+	greeting1 = "Miguel A Naranjo";
+	greeting1.pop_back();
+	cout << "After last Char removal: " << greeting1 << endl;
+	
+	//puch_back
+	//remove last character
+	cout << "\npuch_back" << endl;
+	greeting1 = "Miguel A Naranjo";
+	greeting1.push_back(79);  // argument to push_back needs to be in decimal
+	cout << "After last Char addition: " << greeting1 << endl;
+
+	// string find
+	// find the index of the text passed and return the integer location
+	cout << "\nfind(string)" << endl;
+	int miguel = 0;
+	miguel = greeting1.find("gue");
+	cout << "miguel: " << miguel << endl;
+
+
+	//string replace
+	cout << "\nreplace: " << endl;
+	greeting1 = "Miguel A Naranjo";
+	greeting1.replace(greeting1.find("Miguel"), greeting1.find("Miguel") + 6, "MIGUEL");
+	cout << "MIGUEL Replaced: " << greeting1 << endl;
+
+	//substring
+	//get part of a string
+	greeting1 = "Miguel A Naranjo";
+	cout << "\nGetting characters 3 - 7 in string" << endl;
+	cout << greeting1.substr(3, 7) << endl;
+
+	//find_first_of
+	// find first intance of the characters passed in the string
+	greeting1 = "Miguel A Naranjo";
+	cout << "\nIndex of First bowel in " << greeting1 << " :" << greeting1.find_first_of("aeiou") << endl;; // first vowel
 
 
 
@@ -68,16 +108,7 @@ int main()
 
 
 
-
-
-
-
-
-
-
-
-
-
+	return 0;
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
