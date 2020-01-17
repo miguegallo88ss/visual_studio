@@ -1,0 +1,5 @@
+﻿  Literals.cpp
+c:\users\migue\documents\advancedcpp\visual_studio\basiccpp\literals\literals\literals.cpp(15): warning C4101: 's': unreferenced local variable
+c:\users\migue\documents\advancedcpp\visual_studio\basiccpp\literals\literals\literals.cpp(13): warning C4101: 'x': unreferenced local variable
+c:\users\migue\documents\advancedcpp\visual_studio\basiccpp\literals\literals\literals.cpp(14): warning C4101: 'r': unreferenced local variable
+  Literals.vcxproj -> C:\Users\migue\Documents\AdvancedCPP\visual_studio\BasicCpp\Literals\Debug\Literals.exe

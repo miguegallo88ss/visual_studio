@@ -1,0 +1,4 @@
+﻿  ReturnBreak.cpp
+c:\users\migue\documents\advancedcpp\visual_studio\basiccpp\returnbreak\returnbreak\returnbreak.cpp(12): warning C4018: '<': signed/unsigned mismatch
+c:\users\migue\documents\advancedcpp\visual_studio\basiccpp\returnbreak\returnbreak\returnbreak.cpp(23): warning C4018: '<': signed/unsigned mismatch
+  ReturnBreak.vcxproj -> C:\Users\migue\Documents\AdvancedCPP\visual_studio\BasicCpp\ReturnBreak\Debug\ReturnBreak.exe
