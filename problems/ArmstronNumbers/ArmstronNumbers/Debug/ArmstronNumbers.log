@@ -1,0 +1,4 @@
+﻿  ArmstronNumbers.cpp
+c:\users\migue\documents\advancedcpp\visual_studio\problems\armstronnumbers\armstronnumbers\armstronnumbers.cpp(32): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+c:\users\migue\documents\advancedcpp\visual_studio\problems\armstronnumbers\armstronnumbers\armstronnumbers.cpp(43): warning C4717: 'main': recursive on all control paths, function will cause runtime stack overflow
+  ArmstronNumbers.vcxproj -> C:\Users\migue\Documents\AdvancedCPP\visual_studio\problems\ArmstronNumbers\Debug\ArmstronNumbers.exe
