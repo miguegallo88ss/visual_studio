@@ -1,1 +1,7 @@
-﻿  LargestPrime_SmallerThanGivenNum.vcxproj -> D:\Programing\C_Plus_Plus\exercise\LargestPrime_SmallerThanGivenNum\Debug\LargestPrime_SmallerThanGivenNum.exe
+﻿  pch.cpp
+  LargestPrime_SmallerThanGivenNum.cpp
+c:\users\migue\documents\advancedcpp\visual_studio\problems\largestprime_smallerthangivennum\largestprime_smallerthangivennum\largestprime_smallerthangivennum.cpp(18): warning C4018: '<=': signed/unsigned mismatch
+c:\users\migue\documents\advancedcpp\visual_studio\problems\largestprime_smallerthangivennum\largestprime_smallerthangivennum\largestprime_smallerthangivennum.cpp(31): warning C4018: '>=': signed/unsigned mismatch
+c:\users\migue\documents\advancedcpp\visual_studio\problems\largestprime_smallerthangivennum\largestprime_smallerthangivennum\largestprime_smallerthangivennum.cpp(11): warning C4101: 'j': unreferenced local variable
+c:\users\migue\documents\advancedcpp\visual_studio\problems\largestprime_smallerthangivennum\largestprime_smallerthangivennum\largestprime_smallerthangivennum.cpp(11): warning C4101: 'i': unreferenced local variable
+  LargestPrime_SmallerThanGivenNum.vcxproj -> C:\Users\migue\Documents\AdvancedCPP\visual_studio\problems\LargestPrime_SmallerThanGivenNum\Debug\LargestPrime_SmallerThanGivenNum.exe
